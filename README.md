@@ -1,1 +1,1 @@
-personal website: https://varunyadav2001.github.io/my-website/
+personal website:  https://varunyadav2001.github.io/personal-website/
